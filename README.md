@@ -1,6 +1,10 @@
-# ai4d - AI learning for dummies
+# ai4d - AI learning for dummies 人工智慧學習懶人包
 
-人工智慧學習懶人包
+[人工智能70年：科幻和現實的交融 (BBC)](https://www.bbc.com/zhongwen/trad/science-48380424)
+
+[人工智慧史 (WIKI)](https://zh.wikipedia.org/zh-tw/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%B2)
+
+
 
 # 線上實驗 - 直接在瀏覽器執行
 
