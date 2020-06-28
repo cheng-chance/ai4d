@@ -8,7 +8,7 @@
 
 [深度學習 (WIKI)](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
 
-[淺談Deep Learning原理及應用 (台大)](http://www.cc.ntu.edu.tw/chinese/epaper/0038/20160920_3805.html)
+[淺談Deep Learning原理及應用 (臺灣大學)](http://www.cc.ntu.edu.tw/chinese/epaper/0038/20160920_3805.html)
 
 
 # 線上實驗 - 直接在瀏覽器執行
@@ -19,14 +19,7 @@
 
 # 技術說明
 
-## 程式語言 python
+[程式語言 python ([WIKI)](https://zh.wikipedia.org/zh-tw/Python)
 
-[wiki](https://zh.wikipedia.org/zh-tw/Python)
+[程式開發環境 Google colab 介紹 (臺灣大學)](http://www.cc.ntu.edu.tw/chinese/epaper/0052/20200320_5207.html)
 
-## 程式開發環境 Google colab
-
-[臺灣大學計算機及資訊網路中心 colab 介紹](http://www.cc.ntu.edu.tw/chinese/epaper/0052/20200320_5207.html)
-
-## 資料集 dataset
-
-[國網中心資料集平台 mnist](https://scidm.nchc.org.tw/dataset/mnist)
