@@ -19,7 +19,7 @@
 
 # 技術說明
 
-[程式語言 python ([WIKI)](https://zh.wikipedia.org/zh-tw/Python)
+[程式語言 python (WIKI)](https://zh.wikipedia.org/zh-tw/Python)
 
 [程式開發環境 Google colab 介紹 (臺灣大學)](http://www.cc.ntu.edu.tw/chinese/epaper/0052/20200320_5207.html)
 
